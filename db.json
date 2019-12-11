@@ -1,0 +1,12 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed the app",
+      "attention": false,
+      "tech": "Moses Aizee",
+      "date": "2019-12-11T16:21:46.048Z"
+    }
+  ],
+  "techs": []
+}
